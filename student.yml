@@ -1,0 +1,23 @@
+---
+- student:
+  - name: anil
+    phno: 1234569870
+    addrs: 
+        doorno: 4455
+        street: 2nd
+        pin: 533401
+  
+  - name: sunil
+    phone: 7894563210
+    addrs: 
+        doorno: 458
+        street: 3rd
+        pin: 554486
+
+  - name: vinil
+    phno: 4567891230
+    addrs: 
+        doorno: 895
+        street: 9th
+        pin:  556641
+  
